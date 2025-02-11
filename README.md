@@ -2,7 +2,7 @@
 
 ## Tableau projects📊are like building houses🏘.
 
-### It requires a set of steps before you start building actual graphs and dashboards. I have been using Tableau for more than 2 years now and I still come up with different methods each time. 
+### It requires a set of steps before you start building actual graphs and dashboards. I have been using Tableau for more than 3 years now and I still come up with different methods each time. 
 
 ### Presenting my new Sales-Customer Dashboard https://lnkd.in/dEUQ2QSN which resembles closely to any real-time company's project. Here are a few key steps to follow that will make your next dashboard clean, efficient and engaging.
 
