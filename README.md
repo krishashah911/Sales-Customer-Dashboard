@@ -29,5 +29,3 @@ We shall again draw mockups for containers. Create container structure, pull all
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/080dc700-d050-44c3-855b-5158ec508be4" />
 
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/6d4e6999-f20f-453b-a4b6-3275e73db3ff" />
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue)
-
